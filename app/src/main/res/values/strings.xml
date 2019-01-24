@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="elapsed">Time Elapsed: </string>
+    <string name="up">Time\'s up! </string>
+    <string name="remain">Time Remain: </string>
+
+
+</resources>
